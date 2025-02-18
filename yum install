@@ -1,0 +1,1 @@
+sudo yum install libssl libboost libevent gcc-c++ libtool boost-devel penssl-libs openssl-devel libevent-devel patch autotools-dev dh-autoreconf autoconf automake libdb_cxx libdb-cxx-devel libboost-all-dev openssl

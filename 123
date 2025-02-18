@@ -1,4 +1,1 @@
-sudo rpm -Uvh --replacepkgs https://vault.centos.org/7.9.2009/os/x86_64/Packages/centos-release-7-9.2009.1.el7.centos.x86_64.rpm
-sudo yum clean all
-sudo rm -rf /var/cache/yum
-sudo yum makecache
+sudo install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
